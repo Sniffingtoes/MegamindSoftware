@@ -1,1 +1,5 @@
-test messaage
+hello guys this is hte first release of this app idk what to say
+
+ty for using megamind software
+
+- megamind
