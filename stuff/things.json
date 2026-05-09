@@ -1,1 +1,12 @@
-
+[
+  {
+    "title": "Cool Mod",
+    "description": "Adds a useful Gorilla Tag mod feature.",
+    "repo_url": "https://github.com/Modder/CoolMod"
+  },
+  {
+    "title": "Another Mod",
+    "description": "Another downloadable BepInEx plugin.",
+    "repo_url": "https://github.com/AnotherDev/AnotherMod"
+  }
+]
