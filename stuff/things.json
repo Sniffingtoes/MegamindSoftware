@@ -9,6 +9,6 @@
     "title": "NothingMenu",
     "description": "Official MegamindSoftware menu plugin.",
     "repo_url": "https://github.com/Sniffingtoes/NothingMenu",
-    "official": false
+    "official": true
   }
 ]
