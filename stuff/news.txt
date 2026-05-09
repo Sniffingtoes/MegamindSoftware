@@ -1,5 +1,5 @@
 -- version 1.0.0
-hello guys this is hte first release of this app idk what to say
+hello guys this is the first release of this app idk what to say
 
 ty for using megamind software
 
