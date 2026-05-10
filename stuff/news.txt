@@ -1,6 +1,5 @@
--- version 1.0.0
-hello guys this is the first release of this app idk what to say
+-- version 1.1.0
 
-ty for using megamind software
+so uhm yea i added cool animations and stuff
 
-- megamind
+and uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh yea
