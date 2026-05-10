@@ -11,12 +11,6 @@
       "description": "A simple nametags mod for gorilla tag",
       "appurl": "https://github.com/Sniffingtoes/MegamindNametags",
       "official": true
-    },
-    {
-      "name": "Test",
-      "description": "A simple nametags mod for Gorilla Tag.",
-      "appurl": "https://github.com/Test/Test",
-      "official": false
     }
   ]
 }
