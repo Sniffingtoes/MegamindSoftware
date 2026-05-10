@@ -1,8 +1,14 @@
 {
   "mods": [
     {
+      "name": "NothingMenu",
+      "description": "A cool mod menu for gorilla tag",
+      "appurl": "https://github.com/Sniffingtoes/NothingMenu",
+      "official": true
+    },
+    {
       "name": "MegamindNametags",
-      "description": "A simple nametags mod for Gorilla Tag.",
+      "description": "A simple nametags mod for gorilla tag",
       "appurl": "https://github.com/Sniffingtoes/MegamindNametags",
       "official": true
     },
