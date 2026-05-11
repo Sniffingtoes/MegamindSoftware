@@ -11,18 +11,6 @@
       "description": "A simple nametags mod for gorilla tag",
       "appurl": "https://github.com/Sniffingtoes/MegamindNametags",
       "official": true
-    },
-    {
-      "name": "SeralythMenu",
-      "description": "One of the best free mod menus created by former dev iiDk",
-      "appurl": "https://github.com/Seralyth/Seralyth-Menu",
-      "official": false
-    },
-    {
-      "name": "TooMuchInfo",
-      "description": "A mod for Gorilla Tag that gives you too much info about a person",
-      "appurl": "https://github.com/iiDk-the-actual/TooMuchInfo",
-      "official": false
     }
   ]
 }
