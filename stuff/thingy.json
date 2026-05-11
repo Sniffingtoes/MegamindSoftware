@@ -14,8 +14,14 @@
     },
     {
       "name": "SeralythMenu",
-      "description": "one of the best free mod menus created by former dev iiDk",
+      "description": "One of the best free mod menus created by former dev iiDk",
       "appurl": "https://github.com/Seralyth/Seralyth-Menu",
+      "official": false
+    },
+    {
+      "name": "TooMuchInfo",
+      "description": "A mod for Gorilla Tag that gives you too much info about a person",
+      "appurl": "https://github.com/iiDk-the-actual/TooMuchInfo",
       "official": false
     }
   ]
