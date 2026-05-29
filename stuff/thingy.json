@@ -11,6 +11,12 @@
       "description": "A simple nametags mod for gorilla tag",
       "appurl": "https://github.com/Sniffingtoes/MegamindNametags",
       "official": true
+    },
+    {
+      "name": "MegamindMedia",
+      "description": "A simple media player mod for gorilla tag",
+      "appurl": "https://github.com/Sniffingtoes/MegamindMedia",
+      "official": true
     }
   ]
 }
